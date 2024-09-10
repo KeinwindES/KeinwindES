@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KeinwindES
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programing and gaming
+- 🌱 I’m currently learning HTML, CSS, JavaScript, python
+- 💞️ I’m looking to collaborate on Game Making
 - 📫 How to reach me Twitter https://x.com/keinwindes
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i love penguins
 
 <!---
 KeinwindES/KeinwindES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
