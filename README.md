@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeinwindES
 - 👀 I’m interested in Programing and gaming
-- 🌱 I’m currently learning HTML, CSS, JavaScript, python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, vue.js
 - 💞️ I’m looking to collaborate on Game Making
 - 📫 How to reach me Discord keinwindeichenschwert
 - ⚡ Fun fact: i love penguins
